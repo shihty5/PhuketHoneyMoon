@@ -1,0 +1,7 @@
+http://raspberrypi.stackexchange.com/questions/39943/why-there-is-a-collabora-list-on-my-raspbian-wheezy-source-repo
+
+if you want to update 
+/etc/apt/sources.list 
+
+Don't forget to take care about files under
+/etc/apt/sources.list.d/*
